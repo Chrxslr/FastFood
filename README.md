@@ -14,7 +14,7 @@ Este proyecto tuvo como propósito diseñar, construir y analizar una **base de 
 El objetivo fue modelar operaciones clave (ventas, logística y desempeño de personal) para obtener **insights valiosos** mediante **consultas SQL avanzadas**, replicando un entorno empresarial realista donde las decisiones se basan en datos.  
 
 ---
-![FastFood Logo](assets/dashboard.png)
+![FastFood Logo](FASTFOOD IMAGEN LOGO.png)
 
 ## 🛠️ Desarrollo del proyecto  
 
